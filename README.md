@@ -465,3 +465,17 @@ Instead of defining presentations, sessions may define subsessions, which have t
       start_time: Optional start time of the paper slot as an ISO datestring.
       end_time: Optional start time of the paper slot as an ISO datestring.
 ```
+
+## Credits
+
+The aclpub2 toolkit was conceived and designed by Ryan Cotterell and Danilo Croce in their role as publication chairs of NAACL 2022 and ACL 2022. In addition, Jordan Zhang contributed substantially to the initial software engineering required for the toolkit.
+
+Additionally, we would also like to acknowledge:
+
+* Marco Polignano, for creation of the handbook generation functionality;
+* Rodrigo Wilkens, for the OpenReview integration;
+* Valerio Basile, for the Softconf integration.
+
+We also thank everyone who has contributed to improving and maintaining aclpub2 over time. Including, but not limited to:
+* Matt Post
+* Nathan Schneider
